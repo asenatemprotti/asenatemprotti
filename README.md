@@ -12,6 +12,5 @@
 
 <br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asenatemprotti&theme=dracula&utcOffset=-3"/>
 
 </div>
