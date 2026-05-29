@@ -2,6 +2,6 @@
 
 # Hello, i'm Asenate!
 
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asenatemprotti&layout=compact&theme=dracula&cache_seconds=1800"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asenatemprotti&theme=dracula" />
 
 </div>
