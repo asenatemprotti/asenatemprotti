@@ -2,15 +2,21 @@
 
 # Hello, i'm Asenate!
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asenatemprotti&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asenatemprotti&theme=dracula" width="100%"/>
 
-<br><br>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asenatemprotti&theme=dracula" />
+</td>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asenatemprotti&theme=dracula"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asenatemprotti&theme=dracula"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asenatemprotti&theme=dracula"/>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asenatemprotti&theme=dracula" />
+</td>
+</tr>
+</table>
 
-<br><br>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asenatemprotti&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asenatemprotti&theme=dracula&utcOffset=-3" width="49%"/>
 
 </div>
